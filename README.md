@@ -75,7 +75,7 @@ The application of PCA and clustering provided valuable insights into the underl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MThufail/enhancing-breast-cancer-diagnosis.git
+   git clone https://github.com/SaiShirini3/enhancing-breast-cancer-diagnosis.git
 
 2. Navigate to the project directory:  
    ```bash
